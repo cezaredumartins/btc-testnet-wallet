@@ -9,6 +9,6 @@ Uma carteira HD para Bitcoin Testnet baseada em Node.js, com suporte a:
 ## Instalação
 
 ```bash
-git clone https://github.com/cezaredumartins/Desafio.dio
+git clone https://github.com/cezaredumartins/btc-testnet-wallet
 cd btc-testnet-wallet
 npm install
